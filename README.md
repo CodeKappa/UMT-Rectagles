@@ -11,4 +11,4 @@ Take into consideration only the rectangles that are parallel with the X, Y axes
 3. The number of rectangles that can be formed from the 2 entries is equal to - EQUALS * (EQUALS - 1) / 2 - the number of pairs that can be formed from EQUALS elements.
 
 ## Assumptions
-- Points are integers
+- Coordinates are integers
